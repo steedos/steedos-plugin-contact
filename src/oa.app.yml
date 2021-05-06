@@ -1,0 +1,10 @@
+_id: contacts
+name: 通讯录
+description: 联系人、联系人分组。
+icon_slds: contact
+is_creator: true
+objects: 
+  - contacts
+  - contacts_group
+mobile_objects: 
+  - contacts

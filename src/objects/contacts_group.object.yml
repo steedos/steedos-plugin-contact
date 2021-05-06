@@ -1,0 +1,35 @@
+name: contacts_group
+icon: account
+label: 联系人分组
+fields:
+  name:
+    type: text
+    label: 名称
+    name: name
+    searchable: true
+permission_set:
+  user:
+    allowCreate: true
+    allowDelete: true
+    allowEdit: true
+    allowRead: true
+    modifyAllRecords: false
+    viewAllRecords: false
+  admin:
+    allowCreate: true
+    allowDelete: true
+    allowEdit: true
+    allowRead: true
+    modifyAllRecords: true
+    viewAllRecords: true
+list_views:
+  all:
+    label: 全部
+    filter_scope: space
+    columns:
+      - name
+  mine:
+    label: 我的分组
+    filter_scope: space
+    columns:
+      - name

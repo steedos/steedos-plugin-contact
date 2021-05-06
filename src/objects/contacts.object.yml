@@ -1,0 +1,35 @@
+extend: contacts
+label: 联系人
+icon: contact
+enable_api: true
+enable_share: true
+fields:
+  group:
+    label: 分组
+    type: lookup
+    reference_to: contacts_group
+list_views:
+  all:
+    label: 全部
+    filter_scope: space
+    columns:
+      - name
+      - group
+      - email
+      - phone
+  mine:
+    label: 我的联系人
+    filter_scope: space
+    columns:
+      - name
+      - group
+      - email
+      - phone
+  recent:
+    label: 最近联系人
+    filter_scope: space
+    columns:
+      - name
+      - group
+      - email
+      - phone
