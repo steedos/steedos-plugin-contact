@@ -3,4 +3,4 @@ datasources:
     objectFiles: 
       - ./src/objects/**
     appFiles:
-      - "./src/contacts.app.yml"
+      - ./src/**

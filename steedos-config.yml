@@ -4,6 +4,8 @@ datasources:
       url: ${MONGO_URL}
     objectFiles: 
       - "./src/**"
+    appFiles:
+      - "./src/**"
 public:
   cfs:
     store: "local"
