@@ -10,7 +10,7 @@
     "author": "Jack Zhuang",
     "repository": {
         "type": "git",
-        "url": "https://github.com/steedos/steedos-plugin-dingtalk.git"
+        "url": "https://github.com/steedos/steedos-plugin-contact.git"
     },
     "main": "lib/index.js",
     "scripts": {
@@ -40,7 +40,7 @@
         "nodemon": "^1.19.1",
         "steedos-server": "1.23.28"
     },
-    "homepage": "https://github.com/steedos/steedos-plugin-qywx#readme",
+    "homepage": "https://github.com/steedos/steedos-plugin-contact#readme",
     "resolutions": {
         "**/lodash": "^4.17.15",
         "**/handlebars": "^4.3.0",
