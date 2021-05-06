@@ -2,3 +2,5 @@ datasources:
   default: 
     objectFiles: 
       - ./src/objects/**
+    appFiles:
+      - "./src/contacts.app.yml"
