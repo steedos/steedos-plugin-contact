@@ -1,6 +1,4 @@
 datasources:
   default: 
     objectFiles: 
-      - ./src/objects/**
-    appFiles:
-      - ./src/**
+      - "./src/**"
