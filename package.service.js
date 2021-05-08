@@ -17,7 +17,7 @@ module.exports = {
      */
     settings: {
         packageInfo: {
-            path: path.join(__dirname, 'src/objects')
+            path: path.join(__dirname, 'steedos-app/objects')
         }
     },
 
