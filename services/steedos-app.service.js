@@ -12,7 +12,7 @@ module.exports = {
 	name: serviceName,
 	namespace: "steedos",
 	mixins: [packageLoader],
-  dependencies: ['metadata-server'],
+	dependencies: ['metadata-server'],
 	/**
 	 * Settings
 	 */

@@ -4,7 +4,7 @@ description: 联系人、联系人分组。
 icon_slds: contact
 is_creator: true
 objects: 
-  - contacts
+  - contacts__c
   - contacts_group
 mobile_objects: 
   - contacts
