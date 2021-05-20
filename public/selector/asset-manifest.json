@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f2e5c155.chunk.css",
-    "main.js": "/static/js/main.4b2f33ae.chunk.js",
-    "main.js.map": "/static/js/main.4b2f33ae.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c6012cd5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c6012cd5.js.map",
-    "static/css/2.352a5052.chunk.css": "/static/css/2.352a5052.chunk.css",
-    "static/js/2.b9b483b8.chunk.js": "/static/js/2.b9b483b8.chunk.js",
-    "static/js/2.b9b483b8.chunk.js.map": "/static/js/2.b9b483b8.chunk.js.map",
-    "static/js/3.a7883cde.chunk.js": "/static/js/3.a7883cde.chunk.js",
-    "static/js/3.a7883cde.chunk.js.map": "/static/js/3.a7883cde.chunk.js.map",
+    "main.css": "/static/css/main.7a8571d9.chunk.css",
+    "main.js": "/static/js/main.38cf465d.chunk.js",
+    "main.js.map": "/static/js/main.38cf465d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53e2fbda.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53e2fbda.js.map",
+    "static/css/2.ca722d6e.chunk.css": "/static/css/2.ca722d6e.chunk.css",
+    "static/js/2.d8933b3f.chunk.js": "/static/js/2.d8933b3f.chunk.js",
+    "static/js/2.d8933b3f.chunk.js.map": "/static/js/2.d8933b3f.chunk.js.map",
+    "static/js/3.50d487b4.chunk.js": "/static/js/3.50d487b4.chunk.js",
+    "static/js/3.50d487b4.chunk.js.map": "/static/js/3.50d487b4.chunk.js.map",
     "../dist/types/packages/builder-form/src/components/Field.config.d.ts": "/../dist/types/packages/builder-form/src/components/Field.config.d.ts",
     "../dist/types/packages/builder-form/src/components/Field.d.ts": "/../dist/types/packages/builder-form/src/components/Field.d.ts",
     "../dist/types/packages/builder-form/src/components/FieldObject.config.d.ts": "/../dist/types/packages/builder-form/src/components/FieldObject.config.d.ts",
@@ -102,16 +102,16 @@
     "../dist/types/packages/react-demo-app/src/setupTests.d.ts": "/../dist/types/packages/react-demo-app/src/setupTests.d.ts",
     "../dist/types/packages/react-demo-app/src/use-resize-observer.d.ts": "/../dist/types/packages/react-demo-app/src/use-resize-observer.d.ts",
     "index.html": "/index.html",
-    "static/css/2.352a5052.chunk.css.map": "/static/css/2.352a5052.chunk.css.map",
-    "static/css/main.f2e5c155.chunk.css.map": "/static/css/main.f2e5c155.chunk.css.map",
-    "static/js/2.b9b483b8.chunk.js.LICENSE.txt": "/static/js/2.b9b483b8.chunk.js.LICENSE.txt",
+    "static/css/2.ca722d6e.chunk.css.map": "/static/css/2.ca722d6e.chunk.css.map",
+    "static/css/main.7a8571d9.chunk.css.map": "/static/css/main.7a8571d9.chunk.css.map",
+    "static/js/2.d8933b3f.chunk.js.LICENSE.txt": "/static/js/2.d8933b3f.chunk.js.LICENSE.txt",
     "static/media/symbols.svg": "/static/media/symbols.a8a4c23c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6012cd5.js",
-    "static/css/2.352a5052.chunk.css",
-    "static/js/2.b9b483b8.chunk.js",
-    "static/css/main.f2e5c155.chunk.css",
-    "static/js/main.4b2f33ae.chunk.js"
+    "static/js/runtime-main.53e2fbda.js",
+    "static/css/2.ca722d6e.chunk.css",
+    "static/js/2.d8933b3f.chunk.js",
+    "static/css/main.7a8571d9.chunk.css",
+    "static/js/main.38cf465d.chunk.js"
   ]
 }

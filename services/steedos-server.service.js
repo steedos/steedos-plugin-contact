@@ -23,6 +23,16 @@ module.exports = {
         },
         apiServer: {
             enabled: true
-        }
+        },
+        built_in_plugins: [
+            "@steedos/accounts",
+            "@steedos/accounts",
+            "@steedos/steedos-plugin-schema-builder",
+            "@steedos/accounts",
+            "@steedos/accounts",
+            "@steedos/accounts",
+            "@steedos/metadata-api",
+            "@steedos/accounts"
+        ]
     }
 }
